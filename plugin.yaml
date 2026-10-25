@@ -1,0 +1,8 @@
+name: kanban-followup
+version: 0.1.0
+description: Explicitly scoped read-only Kanban blocked-card diagnostics
+license: MIT
+provides_tools: []
+provides_hooks: []
+python_dependencies: []
+tags: [kanban, diagnostics, read-only]
